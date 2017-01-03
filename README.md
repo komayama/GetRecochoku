@@ -1,0 +1,2 @@
+# GetRecochoku
+GoogleAppsScriptより週間レコチョクランキングをWebスクレイピングしSlackに投稿する
